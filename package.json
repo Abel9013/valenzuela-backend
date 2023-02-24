@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "valenzuela.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abel9013/valenzuela-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abel9013/valenzuela-backend/issues"
+  },
+  "homepage": "https://github.com/Abel9013/valenzuela-backend#readme"
+}
